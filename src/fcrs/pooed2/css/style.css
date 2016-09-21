@@ -1,0 +1,37 @@
+.btInsere:hover {
+	-fx-background-color: #1E90FF;
+	-fx-text-fill: white;
+	-fx-cursor: hand;
+}
+
+.btRemove:hover {
+	-fx-background-color: #1E90FF;
+	-fx-text-fill: white;
+	-fx-cursor: hand;
+}
+
+.btTopo:hover {
+	-fx-background-color: #1E90FF;
+	-fx-text-fill: white;
+	-fx-cursor: hand;
+}
+
+.btMostraFila:hover {
+	-fx-background-color: #1E90FF;
+	-fx-text-fill: white;
+	-fx-cursor: hand;
+}
+
+.btRepeteChamada {
+	-fx-background-color: #1E90FF;
+	-fx-text-fill: white;
+	-fx-cursor: hand;
+}
+
+.cbPrioridade:hover {
+	-fx-cursor: hand;
+}
+
+.cbPrioridade {
+	-fx-font: 15px tahoma;
+}
